@@ -4,7 +4,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/monkey-clone/",
+  base: "/monkeytype-clone/",
   plugins: [react()],
   resolve: {
     alias:{
